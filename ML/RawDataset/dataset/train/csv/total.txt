@@ -1,0 +1,3 @@
+normal: 55591
+slowloris: 21420
+slowread: 24360
