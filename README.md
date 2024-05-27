@@ -5,7 +5,8 @@
 
 ### Installation
 ```sh
-cd cicflowmeter
+git clone https://github.com/YUANWRLD/CICFlowMeter.git
+cd CICFlowMeter
 python3 setup.py install
 ```
 
@@ -14,7 +15,7 @@ python3 setup.py install
 usage: cicflowmeter [-h] (-i INPUT_INTERFACE | -f INPUT_FILE) [-t LIMIT] (-c | -m) output
 
 positional arguments:
-  output                output file name (in flow mode) or predict result (in predict mode)
+  output                output file name (in flow mode) or load predict model (in predict mode)
 
 options:
   -h, --help            show this help message and exit
