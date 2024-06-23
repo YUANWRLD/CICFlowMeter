@@ -2,6 +2,8 @@
 
 > This project is the modified version of [Python Wrapper CICflowmeter](https://gitlab.com/hieulw/cicflowmeter) and customized to fit our need with extra feature (Slow HTTP Detect).
 
+### Environment
+Ubuntu 22.04 LTS
 
 ### Installation
 ```sh
